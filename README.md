@@ -48,7 +48,7 @@ The Expense Tracker delivers a user-friendly interface to log expenses, allocate
 ## Steps to Use  
 
 
-1. *Clone the Repository*  
+1.*Clone the Repository*  
    Clone this repository to your local machine using:  
    ```bash
    git clone https:https://github.com/JeffrinValentina/Expense_Tracker.git
