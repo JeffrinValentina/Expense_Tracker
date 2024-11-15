@@ -52,14 +52,15 @@ The Expense Tracker delivers a user-friendly interface to log expenses, allocate
    Clone this repository to your local machine using:  
    ```bash
    git clone https: https://github.com/JeffrinValentina/Expense_Tracker.git
+   
 2.*Navigate to the Project Directory*
 Open the project folder:
 cd Expense_Tracker
+
 3.*Launch the Application*
 Open the index.html file in your preferred web browser to start using the application.
 
 4.*Start Tracking Expenses*
-
--Log your expenses using the user-friendly interface.
--Categorize your expenses and set budgets.
--View real-time visualizations of your spending habits.
+- Log your expenses using the user-friendly interface.
+- Categorize your expenses and set budgets.
+- View real-time visualizations of your spending habits.
